@@ -1,0 +1,61 @@
+.navbar {
+    background-color: #A41F13;
+}
+
+.navbar-contents {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.brand-title {
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+}
+
+.homenav-cart, .homenav-logo {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding: 5px;
+    margin-left: 10px;
+    color: white;
+}
+
+.navbar-links {
+    padding-right: 35px;
+}
+
+#logo {
+    font-family: "Satisfy", cursive;
+    font-size:xx-large;
+    padding-left: 5px;
+}
+
+#link-title {
+    font-family: "Satisfy", cursive;
+    font-size:larger;
+}
+
+.link-text {
+    text-decoration: none;
+    color: #FAF5F1;
+    font-size:large;
+    font-family: "Roboto Slab", serif;
+    padding: 10px;
+}
+
+/* .link-text:hover{
+    font-size: 20px;
+} */
+
+/* @media only screen and (max-width: 500px){
+    .navbar-contents .navbar-links button{
+        display: none;
+    }
+
+    
+}; */

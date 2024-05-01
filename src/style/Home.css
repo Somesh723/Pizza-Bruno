@@ -1,0 +1,11 @@
+.body {
+    background-image: url("./../images/margherita.jpeg");
+    height: 93.5vh;
+}
+
+.homeText {
+    font-family: "Satisfy", cursive;
+    font-size:150px;
+    color: black;
+    padding: 50px;
+}
